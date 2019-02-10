@@ -1,0 +1,19 @@
+{
+  "name": "honor-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fastify": "^1.13.4",
+    "fastify-mysql": "^0.2.0",
+    "fastify-plugin": "^1.4.0",
+    "fastify-swagger": "^1.1.1",
+    "make-promises-safe": "^4.0.0",
+    "mysql": "^2.16.0"
+  }
+}
